@@ -1,0 +1,1 @@
+In this version2 google generative ai package is not working so that i have use google gen ai package to call the api of gemini
