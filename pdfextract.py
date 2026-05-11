@@ -5,6 +5,7 @@ from langchain_community.vectorstores import FAISS
 
 
 #the code start here
+#the code start here
 def extract_text(pdf_path):
     reader = PdfReader(pdf_path)
     text = ""
